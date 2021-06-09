@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #339967;
+  color: #DC0000;
   text-decoration: none;
 }
 
@@ -598,7 +598,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #f1f6fe;
+  background-color: #f1fef7;
   min-height: 40px;
 }
 
@@ -1302,7 +1302,7 @@ section {
 
 .pricing .box h4 {
   font-size: 36px;
-  color: #106eea;
+  color: #339967;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
@@ -1334,7 +1334,7 @@ section {
 }
 
 .pricing .box ul i {
-  color: #106eea;
+  color: #339967;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1371,7 +1371,7 @@ section {
 
 .pricing .featured h3 {
   color: #fff;
-  background: #106eea;
+  background: #339967;
 }
 
 .pricing .advanced {

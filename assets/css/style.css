@@ -1237,14 +1237,14 @@ section {
   border-radius: 4px;
   width: 36px;
   height: 36px;
-  background: rgba(16, 110, 234, 0.8);
+  background: rgba(8, 212, 117, 0.8);
   display: inline-block;
   transition: ease-in-out 0.3s;
   color: #fff;
 }
 
 .team .member .social a:hover {
-  background: #3b8af2;
+  background: #339967;
 }
 
 .team .member .social i {
